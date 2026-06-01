@@ -1,3 +1,6 @@
+Live link: https://fullstack-chat-app-c0qw.onrender.com
+
+
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 - 🎃 Authentication && Authorization with JWT
 - 👾 Real-time messaging with Socket.io
